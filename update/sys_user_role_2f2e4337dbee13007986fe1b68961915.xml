@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_234144_friends.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-14 11:39:59</sys_created_on>
+        <sys_id>2f2e4337dbee13007986fe1b68961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_234144_friends.user</sys_name>
+        <sys_package display_value="Friends" source="x_234144_friends">5f2e4b73dbee13007986fe1b6896190c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Friends">5f2e4b73dbee13007986fe1b6896190c</sys_scope>
+        <sys_update_name>sys_user_role_2f2e4337dbee13007986fe1b68961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-14 11:39:59</sys_updated_on>
+    </sys_user_role>
+</record_update>
